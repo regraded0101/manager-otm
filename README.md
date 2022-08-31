@@ -1,1 +1,2 @@
 # manager-otm
+Code to understand whether the Manager-of-the-Month (MOTM) 'curse', where managers perform significantly worse in the month following MOTM is true. This will be conducted by comparing the average number of points-per-game managers receive during their Manager-of-the-Month month's against the following month.
