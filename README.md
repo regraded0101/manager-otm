@@ -4,3 +4,5 @@ Code to understand whether the Manager-of-the-Month (MOTM) 'curse', where manage
 # Data Sources
 - Managers of the month data extracted from [My Football Facts|https://www.myfootballfacts.com/premier-league/all-time-premier-league/premier_league_manager_of_the_month_awards/] (from August 1993 to April 2022)
 - Football games data downloaded from [Kaggle|https://www.kaggle.com/datasets/saife245/english-premier-league/code?resource=download]
+
+![plot](https://github.com/regraded0101/manager-otm/blob/main/outputs/chart_images/motm_v_next_month.png)
